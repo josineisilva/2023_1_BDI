@@ -1,0 +1,15 @@
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('01','01','Gol'        ,'azul'      ,'2000','Brasil'   ,'2009/12/20','25000');
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('02','01','Golf'       ,'verde'     ,'2007','Argentina','2010/02/15','39000');
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('03','04','Ford Ka'    ,'vermelho'  ,'1998','Brasil'   ,'2010/01/03','15000');
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('04','04','Fiesta'     ,'vermelho'  ,'2002','Mexico'   ,'2010/02/21','20000');
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('05','03','Corsa Sedan','verde'     ,'1999','Brasil'   ,'2010/01/04','12500');
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('06','04','Fiesta'     ,'azul'      ,'2003','Argentina','2009/12/14','20000');
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('07','03','Corsa Sedan','preto'     ,'1999','Argentina','2010/01/08','10000');
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('08','05','Palio'      ,'preto'     ,'2002','Brasil'   ,'2010/03/01','15000');
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('09','01','Golf'       ,'amarelo'   ,'2005','Mexico'   ,'2010/01/13','37000');
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('10','05','Siena'      ,'branco'    ,'2006','Brasil'   ,'2010/02/10','26000');
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('11','01','Polo'       ,'azul'      ,'2007','Brasil'   ,'2010/02/03','29000');
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('12','04','Fiesta'     ,'branco'    ,'2002','Argentina','2010/02/26','18000');
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('13','05','Palio'      ,'verde'     ,'2007','Brasil'   ,'2010/03/04','23000');
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('14','03','Corsa Sedan','preto'     ,'2002','Argentina','2010/01/20','16000');
+INSERT INTO automovel ( codigo, fabricante, modelo, cor, ano, pais, compra, preco ) VALUES ('15','01','Polo'       ,'vermelho'  ,'2006','Mexico'   ,'2010/01/03','27500');

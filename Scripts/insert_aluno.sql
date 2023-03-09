@@ -1,0 +1,10 @@
+INSERT INTO aluno ( nome, rg, curso, serie, turma ) VALUES ( 'Ana Lucia'   , '20143531', '0001', '1', 'A' );
+INSERT INTO aluno ( nome, rg, curso, serie, turma ) VALUES ( 'Luis Claudio', '22336362', '0001', '1', 'A' );
+INSERT INTO aluno ( nome, rg, curso, serie, turma ) VALUES ( 'Marcelo'     , '25343256', '0001', '1', 'A' );
+INSERT INTO aluno ( nome, rg, curso, serie, turma ) VALUES ( 'Debora'      , '20356328', '0001', '1', 'B' );
+INSERT INTO aluno ( nome, rg, curso, serie, turma ) VALUES ( 'Fernanda'    , '26344325', '0001', '1', 'B' );
+INSERT INTO aluno ( nome, rg, curso, serie, turma ) VALUES ( 'Alvaro'      , '21764527', '0001', '1', 'B' );
+INSERT INTO aluno ( nome, rg, curso, serie, turma ) VALUES ( 'Claudio'     , '23336368', '0002', '1', 'A' );
+INSERT INTO aluno ( nome, rg, curso, serie, turma ) VALUES ( 'Andrea'      , '28456474', '0002', '1', 'A' );
+INSERT INTO aluno ( nome, rg, curso, serie, turma ) VALUES ( 'Carla'       , '23636731', '0002', '2', 'A' );
+INSERT INTO aluno ( nome, rg, curso, serie, turma ) VALUES ( 'Fernanda'    , '29563735', NULL, NULL, NULL );

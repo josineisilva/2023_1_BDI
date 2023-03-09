@@ -1,0 +1,13 @@
+INSERT INTO venda ( cliente, revenda, automovel, data, valor ) VALUES ('02','01','03','2010/02/05','17500');
+INSERT INTO venda ( cliente, revenda, automovel, data, valor ) VALUES ('04','02','01','2010/01/07','28000');
+INSERT INTO venda ( cliente, revenda, automovel, data, valor ) VALUES ('01','04','10','2010/02/15','28000');
+INSERT INTO venda ( cliente, revenda, automovel, data, valor ) VALUES ('02','04','02','2010/03/12','42000');
+INSERT INTO venda ( cliente, revenda, automovel, data, valor ) VALUES ('03','06','07','2010/02/06','11500');
+INSERT INTO venda ( cliente, revenda, automovel, data, valor ) VALUES ('06','07','15','2010/01/10','29500');
+INSERT INTO venda ( cliente, revenda, automovel, data, valor ) VALUES ('03','02','06','2010/01/25','22100');
+INSERT INTO venda ( cliente, revenda, automovel, data, valor ) VALUES ('01','01','05','2010/01/21','15500');
+INSERT INTO venda ( cliente, revenda, automovel, data, valor ) VALUES ('01','06','13','2010/03/10','24500');
+INSERT INTO venda ( cliente, revenda, automovel, data, valor ) VALUES ('06','03','09','2010/03/02','39500');
+INSERT INTO venda ( cliente, revenda, automovel, data, valor ) VALUES ('04','01','11','2010/02/23','31000');
+INSERT INTO venda ( cliente, revenda, automovel, data, valor ) VALUES ('02','01','14','2010/02/19','17500');
+INSERT INTO venda ( cliente, revenda, automovel, data, valor ) VALUES ('01','05','04','2010/03/11','21500');

@@ -1,0 +1,10 @@
+INSERT INTO aluno VALUES ( DEFAULT, 'Ana Lucia'   , '20143531', '0001', '1', 'A' ),
+                         ( DEFAULT, 'Luis Claudio', '22336362', '0001', '1', 'A' ),
+                         ( DEFAULT, 'Marcelo'     , '25343256', '0001', '1', 'A' ),
+                         ( DEFAULT, 'Debora'      , '20356328', '0001', '1', 'B' ),
+                         ( DEFAULT, 'Fernanda'    , '26344325', '0001', '1', 'B' ),
+                         ( DEFAULT, 'Alvaro'      , '21764527', '0001', '1', 'B' ),
+                         ( DEFAULT, 'Claudio'     , '23336368', '0002', '1', 'A' ),
+                         ( DEFAULT, 'Andrea'      , '28456474', '0002', '1', 'A' ),
+                         ( DEFAULT, 'Carla'       , '23636731', '0002', '2', 'A' ),
+                         ( DEFAULT, 'Fernanda'    , '29563735', NULL, NULL, NULL );
